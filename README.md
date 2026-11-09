@@ -60,7 +60,7 @@ CyberGuard Web Interface
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/cyberguard-lite.git
+git clone https://github.com/keisha-aqy/cyberguard-lite.git
 cd cyberguard-lite
 ```
 
